@@ -2,7 +2,7 @@
 
 
 ## **Overview of Project**
-This is an ETL (Extract, Transform, Load) Project. The project is done on movies data from different sources.
+This is an ETL (Extract, Transform, Load) Project. The project has been done on movies data from different sources.
 
 
 ### **Project Summary**
